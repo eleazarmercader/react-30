@@ -16,3 +16,7 @@ Simple digital clock using React.js
 ### 04. User Feed App
 
 Scrollable user feed using react.js
+
+### 05. Image Gallery App
+
+Image gallery using react.js
